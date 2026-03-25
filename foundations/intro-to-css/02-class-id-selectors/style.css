@@ -1,3 +1,6 @@
-
-
 /* Add CSS Styling */
+
+.odd {
+    background-color: #FF8BA0;
+    font-family: Verdana, Tahoma, sans-serif;
+}
